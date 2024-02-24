@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**musataeva/musataeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-###### Here are some ideas to get you started:
-
 - 🔭 **I'm not working right now.**
 - 🌱 ~~I'm currently studying IT technology.~~
 - 👯 I’m looking to collaborate on ...
@@ -16,12 +11,6 @@
 1.😄 Pronouns: ...
 2. Fun fact: ...
 
-[Яндекс](https://www.yandex.ru)
-
 ---
 
-line
-
-another line
-
--->
+[Яндекс](https://www.yandex.ru)
